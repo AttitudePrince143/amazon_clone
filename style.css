@@ -161,7 +161,7 @@ justify-content: space-evenly;
 /** Hero-section **/
 
 .hero-section{
-    background-image: url("hero\ gamer.jpg");
+    
     height: 350px;
     background-size: cover;
     display: flex;
